@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biAangg
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning IOS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
