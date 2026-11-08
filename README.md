@@ -1,20 +1,38 @@
-# Hi, I'm Andrea 👋
+<div align="center">
 
-Computer Science student at **Mapúa Malayan Colleges Laguna**, specializing in **iOS Development**. I build mobile apps with Swift and SwiftUI, and I like mixing in UI/UX design and on-device AI.
+# ✿ hi, i'm andrea! ✿
 
-## 🔨 What I'm working on
-- **Edge-AI Skin Disease Classification** (thesis): iOS vision-gating module and UI/UX for a real-time dermatology classifier
-- Learning Flutter and project management on the side
+🌸 *iOS dev in the making · pixel-pusher · coffee-powered code fairy* 🌸
 
-## 📱 Featured projects
-- **LeafLife**: SwiftUI plant-care app with a care calendar and watering/lighting tracker
-- **Wine Quality Predictor**: Random Forest model (84% accuracy) deployed to an iOS app and a Flask web app
-- **BaybayinScript LIVE**: real-time Baybayin script recognition from a live camera feed
-- **StudyBuddy**: OCR-powered flashcard generator from textbook photos
+</div>
 
-## 🛠️ Tech stack
-**Languages:** Swift · Python · C# · C++ · JavaScript
-**Frameworks & tools:** SwiftUI · Xcode · Flask · ASP.NET Core · Figma · Git
+---
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/andrea-bianca-arellano/) · arellanoandreabianca@gmail.com
+### 🎀 about me
+- 💻 CS student at **Mapúa Malayan Colleges Laguna**, specializing in iOS development
+- 🦋 I build cute, useful apps with **Swift & SwiftUI**, with a sprinkle of UI/UX and on-device AI
+- 🌷 currently learning Flutter and project management on the side
+
+### 🧁 currently brewing
+- 🔮 **Edge-AI Skin Disease Classification** (thesis): an iOS app that spots skin conditions in real time ✨
+
+### 🌼 little things i've made
+| | project | what it does |
+|---|---|---|
+| 🪴 | **LeafLife** | a plant-care app with a care calendar & watering tracker |
+| 🍷 | **Wine Quality Predictor** | an ML model (84% accuracy!) living in an iOS app & a Flask site |
+| 📜 | **BaybayinScript LIVE** | reads Baybayin script through your camera, live |
+| 📚 | **StudyBuddy** | snap your notes, get flashcards ♡ |
+
+### 🎨 my toolbox
+🍓 Swift · Python · C# · C++ · JavaScript
+🍰 SwiftUI · Xcode · Flask · ASP.NET Core · Figma · Git
+
+### 💌 say hi!
+[LinkedIn](https://www.linkedin.com/in/andrea-bianca-arellano/) ♡ arellanoandreabianca@gmail.com
+
+<div align="center">
+
+˚₊‧꒰ა ☆ thanks for stopping by ☆ ໒꒱ ‧₊˚
+
+</div>
